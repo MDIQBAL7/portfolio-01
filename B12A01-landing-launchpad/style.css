@@ -1,0 +1,51 @@
+
+
+ /* <weight>: Use a value from 100 to 900
+ <uniquifier>: Use a unique and descriptive class name */
+
+.inter-font{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.raleway-font{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 65px;
+}
+
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 150px;
+}
+
+.logo-color{
+  color: #4E47FF;
+  font-size: 34px;
+}
+
+.btn-common{
+  background-color: #4E47FF;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.hero-section{
+  text-align: center;
+   max-width: 1000px;
+  margin: 200px auto;
+}
+
+.header{
+  background-image: url("Assets/Hero-bg.png");
+ height: 700px;
+}
