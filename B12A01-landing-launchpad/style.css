@@ -73,3 +73,38 @@
 .action-image{
   border-radius: 48px;
 }
+
+.productive-count{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0px auto;
+  align-items: center;
+}
+
+.productive-title{
+  text-align: center;
+  font-size: 38px;
+}
+
+.productive-container{
+  background-color: rgba(77, 71, 255, 0.2);
+  max-width: 1140px;
+  margin: 0px auto;
+  padding: 20px 0px;
+}
+
+.productive-main-title{
+  color: #4E47FF;
+  font-weight: bold;
+  font-size: 80px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.productive-description{
+  font-size: 20px;
+  color: #252432;
+  opacity: 0.5; 
+  padding: 0px;
+  margin: 0px;
+}
