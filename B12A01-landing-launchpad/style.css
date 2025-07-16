@@ -91,6 +91,7 @@
   max-width: 1140px;
   margin: 0px auto;
   padding: 20px 0px;
+  border-radius: 10px;
 }
 
 .productive-main-title{
@@ -108,3 +109,154 @@
   padding: 0px;
   margin: 0px;
 }
+
+.user-card-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.users-container{
+  width: 1140px;
+  margin: 0px auto;
+}
+
+.user-title{
+  text-align: center;
+  font-size: 42px;
+}
+
+.titles{
+  font-size: 20px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.titles-dis{
+  font-size: 13px;
+  opacity: 0.5;
+  width: 300px;
+}
+
+.useer-card{
+  box-shadow: 5px 5px 20px #a9909038 ;
+  padding: 0px 20px 20px 20px;
+  border-radius: 10px;
+}
+
+.date{
+  font-size: 10px;
+  opacity: 0.3; 
+  padding: 0px;
+  margin: 0px;
+}
+
+.review{
+  font-size: 13px;
+  opacity: 0.5;
+  padding: 0px;
+  margin: 0px;
+}
+
+.avater-img{
+  border-radius: 50px;
+}
+
+
+
+footer{
+  display: flex;
+  justify-content: space-between;
+  max-width: 1140px;
+  align-items: center;
+  margin: 0px auto;
+}
+
+.footer-title{
+  font-size: 97px;
+  max-width: 528px;
+}
+
+
+
+/* form  */
+/* .contact-section {
+  background-color: #f4f7fc;
+  padding: 40px;
+  border: 1px dashed #ccc;
+  width: 320px;
+  margin: auto;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-form label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.contact-form button {
+  padding: 12px;
+  background-color: #4e4cff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.contact-form button:hover {
+  background-color: #e08d3b;
+}
+
+
+
+.header-section {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #ffffff;
+}
+
+.logo {
+  font-size: 48px;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+.tagline {
+  opacity: 0.5;
+  font-size: 13px;
+  max-width: 600px;
+  margin: 0 auto 30px auto;
+  line-height: 1.6;
+}
+
+.nav-links a {
+  margin: 0 15px;
+  color: #555;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.nav-links a:hover {
+  color: #4e4cff;
+}
+
+ */
